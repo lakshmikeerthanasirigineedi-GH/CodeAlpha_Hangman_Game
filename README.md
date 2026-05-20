@@ -1,4 +1,4 @@
-# ❤️ Hangman Game using Python
+# Hangman Game using Python
 
 ## 📌 About The Project
 This is a simple Hangman Game developed using Python as part of my Python Programming Internship at CodeAlpha.
