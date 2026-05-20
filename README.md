@@ -47,9 +47,3 @@ gameplay.mp4
 - README.md
 - gameplay.mp4
 - screenshots
-
----
-
-## 🌟 Internship Task
-Task 1 — Hangman Game  
-Python Programming Internship at CodeAl
